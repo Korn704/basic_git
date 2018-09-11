@@ -1,1 +1,2 @@
-Initial Git repository
+Initial Git repository.
+Edit 1st time add this line.
